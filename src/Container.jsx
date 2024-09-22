@@ -4,6 +4,7 @@ import myStyle from './style.module.css'
 const Container = () => {
   return (
     <section className={myStyle.gridCont}>
+        {/* grid section */}
         <div className={myStyle.galleryPhotos}>
             <div>
                 <img className={myStyle.imgG} src="https://alecta.qodeinteractive.com/wp-content/uploads/2017/06/h10-img1.jpg" alt="" />
@@ -31,7 +32,7 @@ const Container = () => {
                 <hr style={{width:"40px", color:"#fcb900"}} />
                 <p>BY Janet Martinez</p>
             </div>
-            <div>
+            <div className={myStyle.gridAdjust16}>
                 <img className={myStyle.imgG} src="https://alecta.qodeinteractive.com/wp-content/uploads/2017/06/h10-img3.jpg" alt="" />
                 <p className={myStyle.pStyle}><span className={myStyle.spanStyle}>Lifestyle/</span> June 15, 2017</p>
                 <h1 className={myStyle.h1Style}>The best way to start your morning</h1>

@@ -31,12 +31,12 @@ const Footer = () => {
         </ul>
       </div>
 
-      <div className="footerchild">
+      <div className="footerchild twitterfeed">
         <h3>Twitter feed</h3>
         <p>Couldn't connect with Twitter</p>
       </div>
 
-      <div className="footerchild">
+      <div className="footerchild offices">
         <h3>Offices</h3>
         <p>
           Curabitur tincidunt quam ipsum, a dictum dui viverra ut. Donec at odio a justo vulpu.

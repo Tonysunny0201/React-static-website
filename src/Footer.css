@@ -4,6 +4,7 @@
     display: flex;
     justify-content: space-around;
     padding: 50px;
+    flex-wrap: wrap;
     background-color: #0c0b1d;
 }
 .footerchild {
@@ -61,4 +62,22 @@
     margin-bottom: 10px;
     border-radius: 50%;
     text-decoration: none;
+}
+
+
+/* media query */
+
+@media(max-width:798px) {
+    /* footer section */
+    .footer{
+       
+    }
+    .twitterfeed{
+        padding-top: 20px;
+        margin-left: -60px;
+    }
+    .offices{
+        padding-top: 20px;
+        margin-right: -60px;
+    }
 }
