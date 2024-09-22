@@ -1,0 +1,5 @@
+Design a static responsive website using React.
+
+Task completed on => (date- 22/9/24 , Task no. 12 LMR work)
+language used : 
+    - REACT 

@@ -1,0 +1,133 @@
+.divStyle{
+    background-image: url('https://alecta.qodeinteractive.com/wp-content/uploads/2017/06/home-10-title.jpg');
+    background-size: cover;
+    background-position: center;
+    margin-top: -60px;
+}
+.h1Ttyle{
+    padding-top: 90px;
+}
+
+.gridCont{
+    padding-top: 50px;
+}
+.galleryPhotos{
+    display: grid;
+    padding-left: 15px;
+    /* align-items: center; */
+    /* margin-left: 170px; */
+    grid-template-columns: 300px 300px 300px 300px 300px;
+}
+.imgG{
+    width: 250px;
+}
+.imgG:hover{
+    cursor: pointer;
+}
+
+.spanStyle{
+    color: orange;
+}
+.pStyle{
+    color: gray;
+}
+.pStyle:hover{
+    cursor: pointer;
+    color: black;
+}
+.spanStyle:hover{
+    cursor: pointer;
+    color: black;
+}
+.h1Style{
+    font-size: 1.5rem;
+}
+
+.h1Style:hover{
+    cursor: pointer;
+    color: #fcb900;
+}
+
+.h1Style2{
+    font-size: 1rem;
+}
+.h1Style2:hover{
+    cursor: pointer;
+    color: #fcb900;
+}
+
+.gridAdjust{
+ margin-top: -115px;   
+}
+.gridAdjust2{
+    margin-top: 15px;
+    /* border: solid 1px black; */
+    width: 250px;
+    height: 200px; 
+}
+/* .gridAdjust2:hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    
+} */
+.gridAdjust3{
+    margin-top: -320px;
+}
+.gridAdjust4{
+    margin-top: -115px;
+}
+.gridAdjust5{
+    margin-top: -120px;
+}
+.gridAdjust6{
+    margin-top: 25px;
+}
+.gridAdjust7{
+    margin-top: -180px;
+}
+.gridAdjust8{
+    margin-top: -315px;
+}
+.gridAdjust9{
+    margin-top: 20px;
+}
+.gridAdjust10{
+    margin-top: -320px;
+}
+.gridAdjust11{
+    margin-top: 35px;
+}
+.gridAdjust12{
+    margin-top: -180px;
+}
+.gridAdjust13{
+    margin-top: -270px;
+}
+.gridAdjust14{
+    margin-top: -195px;
+}
+.gridAdjust15{
+    margin-top: -330px;
+}
+
+/* .containerIcon i{
+    font-size: 1.2rem;
+    margin-left: 20px;
+} */
+
+.purchaseDiv{
+    margin-top: 70px;
+    padding: 60px;
+    display: flex;
+    justify-content: space-between;
+    background-color: #c3ac6d;
+    height: 180px;
+}
+.purchaseH1{
+    padding: 50px;
+    font-size: 30px;
+}
+
+
+
+
+
